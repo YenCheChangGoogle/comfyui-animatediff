@@ -19,15 +19,17 @@ Download [motion LoRAs](https://huggingface.co/guoyww/animatediff/tree/main) and
 
 Note: LoRAs only work with **AnimateDiff v2** [mm_sd_v15_v2.ckpt](https://huggingface.co/guoyww/animatediff/blob/main/mm_sd_v15_v2.ckpt) module.
 
------------------------------------------------------------------------------------.
-這些模型放置的位置 是位於 ComfyUI\custom_nodes\comfyui-animatediff 客製化節點目錄下.
-個人測試環境 例如:.
-(1).
-D:\YenCheChang\ComfyUI\custom_nodes\comfyui-animatediff\models\mm_sd_v15_v2.ckpt.
-D:\YenCheChang\ComfyUI\custom_nodes\comfyui-animatediff\models\mm_sdxl_v10_beta.ckpt.
-(2).
-D:\YenCheChang\ComfyUI\custom_nodes\comfyui-animatediff\loras\v2_lora_ZoomIn.ckpt.
------------------------------------------------------------------------------------.
+<BR/>
+-----------------------------------------------------------------------------------<BR/>
+這些模型放置的位置 是位於 ComfyUI\custom_nodes\comfyui-animatediff 客製化節點目錄下<BR/>
+個人測試環境 例如:<BR/>
+(1)<BR/>
+D:\YenCheChang\ComfyUI\custom_nodes\comfyui-animatediff\models\mm_sd_v15_v2.ckpt<BR/>
+D:\YenCheChang\ComfyUI\custom_nodes\comfyui-animatediff\models\mm_sdxl_v10_beta.ckpt<BR/>
+(2)<BR/>
+D:\YenCheChang\ComfyUI\custom_nodes\comfyui-animatediff\loras\v2_lora_ZoomIn.ckpt<BR/>
+-----------------------------------------------------------------------------------<BR/>
+<BR/>
 
 #### New node: `AnimateDiffLoraLoader`
 
